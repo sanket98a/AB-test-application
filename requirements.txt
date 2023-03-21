@@ -2,5 +2,4 @@ seaborn
 matplotlib
 pandas 
 numpy
-functools
 scipy
